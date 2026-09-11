@@ -4,6 +4,9 @@ Uses Groq's free API (OpenAI-compatible format).
 """
 
 from groq import Groq
+from dotenv import load_dotenv
+
+load_dotenv()  # reads the .env file and sets the environment variables from it
 
 # This automatically reads your GROQ_API_KEY environment variable
 client = Groq()
