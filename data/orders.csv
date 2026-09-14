@@ -1,0 +1,6 @@
+order_id,customer_name,status,expected_delivery
+1001,Imasha Perera,Shipped,2026-09-15
+1002,Kasun Silva,Processing,2026-09-20
+1003,Nadeesha Fernando,Delivered,2026-09-05
+1004,Ruwan Jayasuriya,Out for Delivery,2026-09-12
+1005,Dilani Wickramasinghe,Cancelled,N/A
